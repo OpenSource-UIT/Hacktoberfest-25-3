@@ -1,4 +1,4 @@
-# 🐛 Buggy Todo App
+#  Buggy Todo App
 
 A simple Todo List application with **intentional bugs** designed for open source contributors to practice debugging and contributing to projects.
 
